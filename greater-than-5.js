@@ -1,3 +1,4 @@
+// script prints true if both parameters are greater than or equal to:
 
   function greaterOrEqualToFive(num1, num2) {
     if (num1 >= 5 && num2 >= 5) {
