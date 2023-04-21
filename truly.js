@@ -1,3 +1,11 @@
+// if value is truthy, print true;
+
+// if value is falsy, print result:
+// "The boolean is falsy"
+// "The null value is falsy"
+// "undefined is falsy"
+// "The number 0 is falsy (the only falsy number)"
+// "The empty string is falsy (the only falsy string
 
 let values = ["I am a string", false, null, undefined, 0, ""];
 
