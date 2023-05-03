@@ -1,4 +1,4 @@
-# block-13-if-else
+-if-else
 Workshop:if/else
 
 Hello there!
